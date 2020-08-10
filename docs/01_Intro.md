@@ -1,57 +1,40 @@
-# Opener
+# Einführung
 
-## Opener
+Dieser Abschnitt zeigt die einführenden Inhalte, die zum zentralen Thema – der „Kultur der Digitalität” – hinführen.
 
-Termin für das erste Kennenlernen, in dem insbesondere das Seminar an sich, aber auch die besondere Situation des Sommersemesters dagestellt und wird.
+## Opener des Seminars
 
-## Übersicht
+<iframe width="720" height="405" src="https://mediaservice.bibliothek.kit.edu/asset/player/DIVA-2020-220.html"
+        scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" allowFullScreen="true" webkitallowfullscreen="true"
+        mozallowfullscreen="true"></iframe>
+
+### Übersicht
 
 - Gegenseitiges Kennenlernen der Studierenden und Dozierenden
 - Transparenz im Hinblick auf
 - Technische Organisation (Was auf ILIAS, was auf MS Teams)
 - Ablauf des Seminars (wöchentliche Aufgaben, Verpflichtungen etc)
 
-## Materialien
+### Aufagbe
 
-- Generelles Willkommen: <https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-220>
+Bitte gebt einen Text ein, in dem ihr eure Erfahrungen mit Peer-Feedback bei Übungsaufgaben (auch außerhalb von ILIAS) schildert. Wenn ihr keine habt, überlegt euch, was ihr von dieser Methode erwartet oder ob sie euch gänzlich unbekannt ist.
 
-### Leistungsnachweise
+### Lernziele und -kontrolle
 
-- 2 ECTS, benotet
-- Abgabe:
-
-  - Wöchentliche kurze Abgabe mit Peer-Feedback
-  - 1x digitales „Produkt" für den Einsatz in der Bildung in/für eine digitale Welt
-
-- Optional
-
-  - Working-Out-Loud Circle mit Uni Göttingen (weitere Tools: Slack & OneNote)
-  - Austausch über Twitter im #Twitterlehrerzimmer und #L2D2
-  - Auch für Austausch mit Autoren von Texten und Medien, die wir behandeln werden.
-
-## Weitere Infos
-
-- Visuellen Advanced Organizer bereitstellen mit Überblick über die Themen des Seminars und deren Platzierung im Verlauf des Semesters: <https://moodle.zml.kit.edu/h5p-zml/wp-admin/admin-ajax.php?action=h5p_embed&id=226>
-
-- Vorgänger des Seminars: <https://l2d2.de>
-
-## Aufagbe
-
-Bitte gebt hier einen Text ein, in dem ihr eure Erfahrungen mit Peer-Feedback bei Übungsaufgaben (auch außerhalb von ILIAS) schildert. Wenn ihr keine habt, überlegt euch, was ihr von dieser Methode erwartet oder ob sie euch gänzlich unbekannt ist.
-
-## Lernziele und -kontrolle
-
-### Lernziele:
+#### Lernziele:
 
 Die Studierenden • kennen die Struktur und die Organisation des Seminars • Wissen, welche Kommunikationskanäle wofür verwendet werden
 
-### Kontrolle:
+#### Kontrolle:
 
 Bleibt aus – ist an dieser Stelle nicht relevant
 
-# Schule und Studium digital
+
+---
+
 
 ## Schule und Studium digital
+
 
 Reflexion über Bildungsbiographien und das Studium bisher. Reflexion über die eigenen Erfahrungen mit digitalen Medien in Schule und Studium, wie war es damals, wie wird es sein bzw. wie IST es in diesem speziellen Sommersemester?
 
