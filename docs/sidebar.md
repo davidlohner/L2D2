@@ -1,12 +1,12 @@
-- [Week 1 (May 9 - 15)](module-1)
-- [Week 2 (May 16 - 22)](module-2)
-- [Week 3 (May 23 - 29)](module-3)
-- [Week 4 (May 30 - Jun 5)](module-4)
-- **LMS Links**
-- [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://sso.canvaslms.com/calendar)
-- [![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080)Assignments](https://sso.canvaslms.com/courses/1924881/assignments )
-- [![Quizzes](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080)Quizzes](https://sso.canvaslms.com/courses/1924881/quizzes)
-- [![Class Discussions](https://icongr.am/fontawesome/comments-o.svg?size=16&color=808080)Class Discussions](https://sso.canvaslms.com/courses/1924881/discussion_topics)
-- [![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=808080)Syllabus](https://sso.canvaslms.com/courses/1924881/assignments/syllabus)
+- [Einführung](01_Intro)
+- [Kultur der Digitalität](02_Kultur)
+- [Tools](03_Tools)
+- [Weiterführendes](04_Beyond)
+- **KIT-interne Links**
+- [![ILIAS-Kursraum](https://icongr.am/octicons/rocket.svg?size=128&color=currentColor)Rocket](https://ilias.studium.kit.edu/goto.php?target=crs_1083151&client_id=produktiv)
+- [![MS Team](https://icongr.am/octicons/people.svg?size=128&color=currentColor)Team](https://connect.studium.kit.edu/teams/join/UFTXtJiJ9f)
+- [![Alle Intro-Videos](https://icongr.am/octicons/play.svg?size=128&color=currentColor)Videos](https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-C18)
+
 - **Project Documentation**
+
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/master/README.md)

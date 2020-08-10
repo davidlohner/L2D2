@@ -1,2 +1,2 @@
-* [Schedule](schedule.md)
-* [Contact Instructor](contact-instructor.md)
+- [Mehr über L2D2](https://l2d2.de)
+- [Kontakt](contact-instructor.md)

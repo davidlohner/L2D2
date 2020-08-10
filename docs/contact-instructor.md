@@ -1,9 +1,9 @@
-# Contact Instructor
+# Kontakt
 
-**Course Instructor**  
-Some Name  
-somename@somewhere.edu  
+**Dozent**  
+David Lohner
+david.lohner@kit.edu  
 
-Virtual office hours chat:  
-Mondays 12:00-1:30pm  
-Fridays 12:00-1:00pm  
+
+Auch erreichbar unter:  
+[@davidlohner auf Twitter](https://twitter.com/davidlohner)
