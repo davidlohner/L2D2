@@ -1,23 +1,13 @@
-# CPT363 User Interface Design
+# L2D2
 
-> **Important Reminders**
+## Lehren und Lernen unter den Bedingungen von Digitalisierung und Digitalität
 
-> - [Journey Map](#) assignment due Jun 12th
-> - [Course Reflection Log](#) assignment due Aug 3rd
+Lernprozesse sind unter den Bedingungen der Digitalisierung grundlegenden Veränderungen unterworfen. Der Pädagogik kommt in diesem unumkehrbaren Transformationsprozess von der Buch- in die Computergesellschaft eine entscheidende Rolle zu, da ihre Praxis (z.B. die Gestaltung von Unterrichtssituationen) diese Veränderungen in besonderer Weise spiegeln. Im Seminar werden wir erarbeiten, was „Kultur der Digitalität" für uns – als Lehrende und(!) Lernende – bedeutet und wie wir in diesem sich vollziehenden Wandel guten Unterricht für unsere Schülerinnen und Schüler gestalten können. Lehrpersonen müssen in jeder Hinsicht medienkompetent handeln und Kenntnisse in bzw. über einschlägige/n Konzepten, Anwendungen und Praktiken haben. Hierzu gehören gängige Modelle für Medien- oder Digitale Kompetenz, Open Educational Ressources und das alltägliche Bewältigen eines digital gestützten Unterrichts. Zudem sollen im Seminar selbst digitale Methoden angewendet werden und ein interuniversitärer Austausch angestoßen werden, sodass ein Meta-Lernprozess angeregt wird und die Lernenden selbst unter den Bedingungen der Digitalisierung lernen und arbeiten.
 
-## Jun 6th Class Preparations
+## Überblick über die Themen
 
-### Required Reading
+(H5P Advance Organizer)
 
-[The Art of Guerrilla Usability Testing | UX Booth](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)
+## Ziele des Seminars
 
-<script async="" src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8">
-</script>
-
-[Required Reading Quiz](https://sso.canvaslms.com/courses/1924881/quizzes/4876153 ":class=button")
-
-### Slides to be Discussed
-
-[Usability Testing](https://www.google.ca/slides/about/)
-
-Did you attend this class? [Share your one-minute summary](#) before midnight, the day of class.
+(kurzer Absatz über Ziele)
