@@ -6,7 +6,11 @@ Lernprozesse sind unter den Bedingungen der Digitalisierung grundlegenden Verän
 
 ## Überblick über die Themen
 
-(H5P Advance Organizer)
+<iframe src="https://moodle.zml.kit.edu/h5p-zml/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=226" width="1258" height="737" frameborder="0" allowfullscreen="allowfullscreen">
+</iframe>
+
+<script src="https://moodle.zml.kit.edu/h5p-zml/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
+</script>
 
 ## Ziele des Seminars
 

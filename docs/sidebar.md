@@ -5,6 +5,7 @@
 - **KIT-interne Links**
 - [![ILIAS-Kursraum](https://icongr.am/octicons/rocket.svg?size=16&color=currentColor)ILIAS-Kursraum](https://ilias.studium.kit.edu/goto.php?target=crs_1083151&client_id=produktiv)
 - [![MS Team](https://icongr.am/octicons/people.svg?size=16&color=currentColor)MS-Team](https://connect.studium.kit.edu/teams/join/UFTXtJiJ9f)
-- [![Alle Intro-Videos](https://icongr.am/octicons/play.svg?size=128&color=currentColor)Alle Intro-Videos](https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-C18)
-- **Über diese Skript-Vorlage**
-- [Info](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/master/README.md)
+- [![Alle Intro-Videos](https://icongr.am/octicons/play.svg?size=16&color=currentColor)Alle Intro-Videos](https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-C18)
+- **Über diese Dokumentation**
+- [Lizenziert unter CC-BY 4.0](CCLizenz)
+- [Technischer Unterbau](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/master/README.md)
