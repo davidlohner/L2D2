@@ -4,7 +4,7 @@ Dieser Abschnitt zeigt die einführenden Inhalte, die zum zentralen Thema – de
 
 ## Opener des Seminars
 
-<iframe width="1280px" height="720px" src="https://mediaservice.bibliothek.kit.edu/asset/player/DIVA-2020-220.html"
+<iframe   src="https://mediaservice.bibliothek.kit.edu/asset/player/DIVA-2020-220.html"
         scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" allowFullScreen="true" webkitallowfullscreen="true"
         mozallowfullscreen="true"></iframe>
 
@@ -21,7 +21,7 @@ Bitte gebt einen Text ein, in dem ihr eure Erfahrungen mit Peer-Feedback bei Üb
 
 Reflexion über Bildungsbiographien und das Studium bisher. Reflexion über die eigenen Erfahrungen mit digitalen Medien in Schule und Studium, wie war es damals, wie wird es sein bzw. wie IST es in diesem speziellen Sommersemester?
 
-<iframe width="1280px" height="720px" src="https://mediaservice.bibliothek.kit.edu/asset/player/DIVA-2020-235.html"
+<iframe   src="https://mediaservice.bibliothek.kit.edu/asset/player/DIVA-2020-235.html"
         scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" allowFullScreen="true" webkitallowfullscreen="true"
         mozallowfullscreen="true"></iframe>
 
@@ -36,7 +36,7 @@ Beschreibt kurz, wo und wie ihr bereits in eurer eigenen Bildungsbiographie (als
 
 IT Grundbildung – was sind eigentlich Algorithmen; und: kann man sie essen?
 
-<iframe width="1280px" height="720px" src="https://mediaservice.bibliothek.kit.edu/asset/player/DIVA-2020-261.html"
+<iframe   src="https://mediaservice.bibliothek.kit.edu/asset/player/DIVA-2020-261.html"
         scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" allowFullScreen="true" webkitallowfullscreen="true"
         mozallowfullscreen="true"></iframe>
 
@@ -60,7 +60,7 @@ Beschreibe in eigenen Worten, was ein Algorithmus ist und wo Du in deinem ganz p
 
 Vorlage für diese Sitzung ist [eine Sitzung des „originalen” L2D2](https://l2d2.de/themen/der-paradigmenwechsel-von-der-gutenberg-zur-turing-galaxis/) von Christian Albrecht.
 
-<iframe width="1280px" height="720px" src="https://mediaservice.bibliothek.kit.edu/asset/player/DIVA-2020-274.html"
+<iframe   src="https://mediaservice.bibliothek.kit.edu/asset/player/DIVA-2020-274.html"
         scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" allowFullScreen="true" webkitallowfullscreen="true"
         mozallowfullscreen="true"></iframe>
 
