@@ -1,16 +1,19 @@
-# Digitaler Werkzeugkasten
+# tools
+
+## Digitaler Werkzeugkasten
 
 Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=6" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
 
+
+
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
-## Materialien
+### Materialien
 
-- Einführungsvideo: <https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-286>
 - Digitales Whiteboard Flinga
 
   - z.B. geeignet für Brainstorming-Sessions
@@ -34,11 +37,11 @@ Zusammenfassung des Themas
 - Offene Webtools für offenes Lehren und Lernen
 
   - Webinarreihe der OERCamps.
-  - <https://www.oercamp.de/webinare/weboep/>
+  - <https://www.oercamp.de/webinare/weboep/>>
 
 - Padlet
 
-  - <https://padlet.com/>
+  - <<https://padlet.com/>
 
 - Sammlung allerlei Tools nach Kategorien
 
@@ -54,7 +57,7 @@ Zusammenfassung des Themas
   - Webinarreihe der OERCamps
   - <https://www.oercamp.de/webinare/tools/>
 
-## Aufgabe
+### Aufgabe
 
 1. Wählt aus den Listen und Sammlungen zwei Tools aus; eines, das eher einen allgemeinen Charakter hat und eines, das eher fachspezifisch für eines eurer Studienfächer geeignet scheint.
 2. Macht euch mit den Tools vertraut und gestaltet mit einem davon einen Prototypen eines digitalen Artefakts damit, den ihr als Datei hochladet -- nach Möglichkeit jeweils im Orginialformat als auch in einem Format, das jemand ansehen kann, der kein Zugriff auf das Tool hat. Möglicherweise ist das dann auch nur ein Weblink zum veröffentlichten Artefakt.
@@ -67,21 +70,22 @@ FÜR PEER-FEEDBACK:
 
 --------------------------------------------------------------------------------
 
-# Open Educational Resources
+## Open Educational Resources
 
 Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=7" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
 
+
+
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
-## Materialien
+### Materialien
 
-- Einführungsvideo: <https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-352>
 - <https://digill.de/course/einfuehrung-in-die-open-educational-resources/>
 
   ### Aufgabe
 
-   Bitte sucht im Netz ein OER-Material eurer Wahl, das ihr in eurem Unterricht einsetzen könntet. Gebt hier die korrekte Quellenangabe dazu an.
+  Bitte sucht im Netz ein OER-Material eurer Wahl, das ihr in eurem Unterricht einsetzen könntet. Gebt hier die korrekte Quellenangabe dazu an.

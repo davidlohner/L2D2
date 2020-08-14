@@ -1,19 +1,23 @@
-# Learning Management Systeme
+# Weiterführende Themen
+
+## Learning Management Systeme
 
 Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=8" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
 
+
+
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
-## Materialien
+### Materialien
 
 - <https://www.e-teaching.org/technik/distribution/lernmanagementsysteme>
 - <http://www.zml.kit.edu/corona-ilias-nutzung.php>
 
-## Aufgabe / Projektarbeit
+### Aufgabe / Projektarbeit
 
 Bitte lest euch den Überblick über Learning Management Syssteme (LMS) bei e-teaching.org durch. Was danach kommt, ist eure Abschlussaufgabe für diesen Kurs, deren Abgabe daher auch erst bis Ende der Vorlesungszeit (Ende Juli) erforderlich ist. Alle noch kommenden Themen des Seminars ergänzen diese Aufgabe. Ziel der Aufgabe wird sein, dass ihr selbst eine kleine Lerneinheit innerhalb von ILIAS erstellt.
 
@@ -25,14 +29,16 @@ Worin seht ihr Vor- und Nachteile von Learning Management Systemen (am Beispiel 
 
 --------------------------------------------------------------------------------
 
-# Modelle für Medienkompetenz
+## Modelle für Medienkompetenz
 
 Zusammenfassung des Themas
 
-## Materialien
+### Materialien
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=9" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
+
+
 
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
@@ -62,40 +68,44 @@ Zusammenfassung des Themas
   - Stärken und Schwächen unterschiedlicher Modelle. <https://www.vedducation.de/modell/>
   - Medienkompetenz bei Studierenden, ein nicht wieder verfolgtes Projekt des ZML. <https://publikationen.bibliothek.kit.edu/1000097492>
 
-## Aufgabe
+### Aufgabe
 
 Lest die Materialien zu den Modellen durch und überlegt, wie ihr eines davon in eurer Projektarbeit (Lerneinheit im LMS) umsetzen könnt, bzw. wie es darin Anwendung findet.
 
 --------------------------------------------------------------------------------
 
-# Mehr als 0 und 1
+## Mehr als 0 und 1
 
 Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=10" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
 
+
+
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
-## Materialien
+### Materialien
 
 - Mehr als 0 und 1: <http://mehrals0und1.ch/Argumente/WebHome>
 - Lernen Trotz Corona: <https://www.lernentrotzcorona.ch/Lernentrotzcorona>
 
 --------------------------------------------------------------------------------
 
-# Medienbildung im Bildungsplan BW
+## Medienbildung im Bildungsplan Baden-Württemberg
 
 Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=11" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
 
+
+
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
-## Materialien
+### Materialien
 
 - <http://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/LP/MB>
 - <http://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/LP>

@@ -1,4 +1,6 @@
-# Leitmedienwechsel
+# Kultur der Digitalität
+
+## Leitmedinwechsel
 
 Über den Leitmedienwechsel aus der Gutenberg- in die Turinggalaxis Von analog zu digital – der gesellschaftliche Umbruch durch den Leitmedienwechsel
 
@@ -12,12 +14,12 @@ Vorlage für diese Sitzung ist [eine Sitzung des „originalen" L2D2](https://l2
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
-## Materialien
+### Materialien
 
-- <https://www.faz.net/aktuell/karriere-hochschule/digitale-schule-die-grammatik-des-lernens-15819548.html>
-- <https://www.youtube.com/watch?v=BLLKJb2NTUQ&feature=youtu.be>
+- <https://www.faz.net/aktuell/karriere-hochschule/digitale-schule-die-grammatik-des-lernens-15819548.html>>
+- <<https://www.youtube.com/watch?v=BLLKJb2NTUQ&feature=youtu.be>
 
-## Aufgabe
+### Aufgabe
 
 Bitte wählt einen der beiden Beiträge (Vortrag von Axel Krommer oder Text von Klaus Zierer) aus, dem ihr eher zustimmt. Beschreibt 1.) die Argumente, die euch überzeugt haben und 2.) überlegt, warum sie euch überzeugen.
 
@@ -27,24 +29,26 @@ Für das Peer-Feedback:
 
 --------------------------------------------------------------------------------
 
-# Kultur der Digitalität
+## Kultur der Digitalität
 
 Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=5" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
 
+
+
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
-## Materialien
+### Materialien
 
 - Einführungsvideo: <https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-285>
 - LESEN: <https://www.synergie.uni-hamburg.de/de/media/ausgabe05/synergie05-beitrag01-stalder.pdf>
 - HÖREN: <https://open-educational-resources.de/oer066/>
 - HÖREN: <https://forschergeist.de/podcast/fg043-schule-und-lernen-in-der-digitalen-welt/>
 
-## Aufgabe
+### Aufgabe
 
 1. Organisiert euch in 5er Gruppen (nach meiner Rechnung müsste es dann auch eine 4er Gruppe geben. – Denkt auch daran, innerhalb der Teams Rollen zu verteilen (wer organisiert Meetings, wer achtet auf Zeiteinteilung, wer übernimmt Protokollierung von Gesprächen etc)
 2. Legt für jede Gruppe in MS Teams einen Kanal an (benennung "Gruppe_ABCD" und an Stelle ABCD sucht ihr euch einen coolen Namen)
