@@ -2,7 +2,7 @@
 
 ## Lehren und Lernen unter den Bedingungen von Digitalisierung und Digitalität
 
-![L2D2](/assests/images/l2d2_header.png)
+![L2D2](/assets/images/l2d2_header.png)
 
 „Lehren und Lernen unter den Bedingungen von Digitalisierung und Digitalität" – kurz L2D2 – ist ein Seminar für Studierende der Pädagogik und Lehramtsstudiengänge am [Karlsruher Institut für Technologie (KIT)](https://www.kit.edu)
 
