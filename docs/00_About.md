@@ -4,12 +4,7 @@ Lernprozesse sind unter den Bedingungen der Digitalisierung grundlegenden Verän
 
 ## Überblick über die Themen
 
-<iframe src="https://moodle.zml.kit.edu/h5p-zml/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=226" width="1258" height="737" frameborder="0" allowfullscreen="allowfullscreen">
-</iframe>
-
-<script src="https://moodle.zml.kit.edu/h5p-zml/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
-</script>
-
+<iframe src="https://moodle.zml.kit.edu/h5p-zml/wp-admin/admin-ajax.php?action=h5p_embed&id=226" width="788" height="475" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://moodle.zml.kit.edu/h5p-zml/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ## Lernziel des Seminars
 
 1. Die Studierenden können Implikationen von Digitalisierung und Digitalität auf das Lehren und Lernen beschreiben und Bildungskontexte, der mit medien gestützt gestaltet ist vor diesem Hintergrund analysieren.

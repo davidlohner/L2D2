@@ -1,29 +1,87 @@
-# Week 3 (May 23 - 29)
+# Digitaler Werkzeugkasten
 
-![Bullseye](assets/images/6384294717_5047a35d48_b.jpg ":class=banner-image")
+Zusammenfassung des Themas
 
-## Summaries and Questions
-
-[May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377744)
-
-## Presented Slides
-
-<div class="video-container">&lt;iframe src="<a href="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&amp;loop=false&amp;delayms=3000">https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&amp;loop=false&amp;delayms=3000</a>" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;</div>
-
-## Supplemental Materials
-
-<div class="video-container">
-  <iframe width="780" height="585" src="https://www.youtube.com/embed/a40QYgO-_aM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+<iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=6" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
-</div>
 
-## Assignments
-
-[Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756)
-
-## Required Reading
-
-[What is a User Journey Map?](https://www.aytech.ca/blog/user-journey-map/)
-
-<script async="" src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8">
+<script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
+
+## Materialien
+
+- Einführungsvideo: <https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-286>
+- Digitales Whiteboard Flinga
+
+  - z.B. geeignet für Brainstorming-Sessions
+  - <https://ebildungslabor.de/blog/flinga/>
+
+- H5P-Inhaltstypen unter der Lupe – interaktiven Webcontent mit H5P gestalten
+
+  - Webinarreihe der OERCamps
+  - <https://www.oercamp.de/webinare/h5p/>
+
+- Kollaborativ schreiben – Etherpads
+
+  - 5 Tools für spezifische Kollaborationsherausforderungen (Nele Hirsch)
+  - <https://ebildungslabor.de/blog/etherpadprinzip/>
+
+- Liste vom Sofa-Tutor
+
+  - Sehr umfangreiche Liste auch mit sehr spezifischer und kommerzieller Software.
+  - <https://magazin.sofatutor.com/lehrer/digitaler-werkzeugkasten-apps-und-tools-fuer-den-unterricht/>
+
+- Offene Webtools für offenes Lehren und Lernen
+
+  - Webinarreihe der OERCamps.
+  - <https://www.oercamp.de/webinare/weboep/>
+
+- Padlet
+
+  - <https://padlet.com/>
+
+- Sammlung allerlei Tools nach Kategorien
+
+  - Organisiert in einem Padlet.
+  - <https://padlet.com/tim_kantereit/zjb5br7gkwr4>
+
+- Sammlung des LMZ-BW
+
+  - <https://www.lmz-bw.de/statische-newsroom-seiten/schule-machen-in-zeiten-des-coronavirus/online-tools-fuer-den-digitalen-unterricht/>
+
+- Videos & Audios aufnehmen und bearbeiten – Open Educational Resources (OER) einfach selbst machen!
+
+  - Webinarreihe der OERCamps
+  - <https://www.oercamp.de/webinare/tools/>
+
+## Aufgabe
+
+1. Wählt aus den Listen und Sammlungen zwei Tools aus; eines, das eher einen allgemeinen Charakter hat und eines, das eher fachspezifisch für eines eurer Studienfächer geeignet scheint.
+2. Macht euch mit den Tools vertraut und gestaltet mit einem davon einen Prototypen eines digitalen Artefakts damit, den ihr als Datei hochladet -- nach Möglichkeit jeweils im Orginialformat als auch in einem Format, das jemand ansehen kann, der kein Zugriff auf das Tool hat. Möglicherweise ist das dann auch nur ein Weblink zum veröffentlichten Artefakt.
+3. Nennt und beschreibt kurz die beiden Tools und warum ihr euch für sie entschieden habt.
+
+FÜR PEER-FEEDBACK:
+
+1. Seht euch das zur Verfügung gestellte Artefakt an.
+2. Gebt eurem Peer Rückmeldung, was ihr an dem Artefakt gelungen findet (nicht, was man hätte besser machen können).
+
+--------------------------------------------------------------------------------
+
+# Open Educational Resources
+
+Zusammenfassung des Themas
+
+<iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=7" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
+</iframe>
+
+<script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
+</script>
+
+## Materialien
+
+- Einführungsvideo: <https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-352>
+- <https://digill.de/course/einfuehrung-in-die-open-educational-resources/>
+
+  ### Aufgabe
+
+   Bitte sucht im Netz ein OER-Material eurer Wahl, das ihr in eurem Unterricht einsetzen könntet. Gebt hier die korrekte Quellenangabe dazu an.

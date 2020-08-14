@@ -1,3 +1,1 @@
-- [Projektwebseite](https://l2d2.de)
-- [Mehr über L2D2](https://hochschulforumdigitalisierung.de/de/blog/kollaborativ-lehren-und-lernen-l2d2)
 - [Kontakt](contact-instructor.md)
