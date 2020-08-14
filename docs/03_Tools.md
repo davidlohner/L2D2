@@ -6,56 +6,40 @@ Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=6" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
-
-
-
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
 ### Materialien
 
-- Digitales Whiteboard Flinga
+- Digitales Whiteboard [Flinga](https://ebildungslabor.de/blog/flinga/)
 
   - z.B. geeignet für Brainstorming-Sessions
-  - <https://ebildungslabor.de/blog/flinga/>
 
 - H5P-Inhaltstypen unter der Lupe – interaktiven Webcontent mit H5P gestalten
 
-  - Webinarreihe der OERCamps
-  - <https://www.oercamp.de/webinare/h5p/>
+  - [Webinarreihe der OERCamps zu H5P](https://www.oercamp.de/webinare/h5p/)
 
 - Kollaborativ schreiben – Etherpads
 
-  - 5 Tools für spezifische Kollaborationsherausforderungen (Nele Hirsch)
-  - <https://ebildungslabor.de/blog/etherpadprinzip/>
-
+  - [5 Tools für spezifische Kollaborationsherausforderungen (Nele Hirsch)](https://ebildungslabor.de/blog/etherpadprinzip/)
 - Liste vom Sofa-Tutor
 
-  - Sehr umfangreiche Liste auch mit sehr spezifischer und kommerzieller Software.
-  - <https://magazin.sofatutor.com/lehrer/digitaler-werkzeugkasten-apps-und-tools-fuer-den-unterricht/>
+  - [Sehr umfangreiche Liste](https://magazin.sofatutor.com/lehrer/digitaler-werkzeugkasten-apps-und-tools-fuer-den-unterricht/) auch mit sehr spezifischer und kommerzieller Software.
 
 - Offene Webtools für offenes Lehren und Lernen
 
-  - Webinarreihe der OERCamps.
-  - <https://www.oercamp.de/webinare/weboep/>>
+  - [Webinarreihe der OERCamps](https://www.oercamp.de/webinare/weboep/)
 
-- Padlet
+- [Padlet](https://padlet.com/)
 
-  - <<https://padlet.com/>
+- Sammlung allerlei Tools nach Kategorien, [organisiert in einem Padlet](https://padlet.com/tim_kantereit/zjb5br7gkwr4).
 
-- Sammlung allerlei Tools nach Kategorien
+- [Sammlung des Landesmedienzentrums Baden-Württemberg](https://www.lmz-bw.de/statische-newsroom-seiten/schule-machen-in-zeiten-des-coronavirus/online-tools-fuer-den-digitalen-unterricht/)
 
-  - Organisiert in einem Padlet.
-  - <https://padlet.com/tim_kantereit/zjb5br7gkwr4>
-
-- Sammlung des LMZ-BW
-
-  - <https://www.lmz-bw.de/statische-newsroom-seiten/schule-machen-in-zeiten-des-coronavirus/online-tools-fuer-den-digitalen-unterricht/>
 
 - Videos & Audios aufnehmen und bearbeiten – Open Educational Resources (OER) einfach selbst machen!
 
-  - Webinarreihe der OERCamps
-  - <https://www.oercamp.de/webinare/tools/>
+  - [Webinarreihe der OERCamps zu Audio & Video](https://www.oercamp.de/webinare/tools/)
 
 ### Aufgabe
 
@@ -76,16 +60,13 @@ Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=7" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
-
-
-
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
 ### Materialien
 
-- <https://digill.de/course/einfuehrung-in-die-open-educational-resources/>
+- [Einführung in OER bei DigiLL](https://digill.de/course/einfuehrung-in-die-open-educational-resources/)
 
-  ### Aufgabe
+### Aufgabe
 
-  Bitte sucht im Netz ein OER-Material eurer Wahl, das ihr in eurem Unterricht einsetzen könntet. Gebt hier die korrekte Quellenangabe dazu an.
+Bitte sucht im Netz ein OER-Material eurer Wahl, das ihr in eurem Unterricht einsetzen könntet. Gebt hier die korrekte Quellenangabe dazu an.

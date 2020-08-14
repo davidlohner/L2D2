@@ -6,16 +6,13 @@ Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=8" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
-
-
-
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
 ### Materialien
 
-- <https://www.e-teaching.org/technik/distribution/lernmanagementsysteme>
-- <http://www.zml.kit.edu/corona-ilias-nutzung.php>
+- https://www.e-teaching.org/technik/distribution/lernmanagementsysteme
+- http://www.zml.kit.edu/corona-ilias-nutzung.php
 
 ### Aufgabe / Projektarbeit
 
@@ -37,36 +34,33 @@ Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=9" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
-
-
-
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
 - Einleitung aus "Medien und Schule" (Schaumburg/Prasse 2018, 11-16).
 
-  - <https://www.researchgate.net/profile/Heike_Schaumburg/publication/329371320_Medien_und_Schule/links/5c069e74a6fdcc315f9c0ee9/Medien-und-Schule.pdf>
+  - https://www.researchgate.net/profile/Heike_Schaumburg/publication/329371320_Medien_und_Schule/links/5c069e74a6fdcc315f9c0ee9/Medien-und-Schule.pdf
 
 - KMK-Strategie. (Volltext): Bildung in der digitalen Welt. Kapitel 2.1.1 Allgemeinbildende Schule (KMK 2016/17, 10-19)
 
-  - KMK Strategie <https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2018/Digitalstrategie_2017_mit_Weiterbildung.pdf>
-  - Überblicksdarstellung als Mindmap <https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2017/KMK_Kompetenzen_-_Bildung_in_der_digitalen_Welt_Web.html>
-  - als Videos: <https://www.youtube.com/playlist?list=PLj5MscT8Fqr3POpHsUYCkyO1b2vYAiMtd>
+  - KMK Strategie https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2018/Digitalstrategie_2017_mit_Weiterbildung.pdf
+  - Überblicksdarstellung als Mindmap https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2017/KMK_Kompetenzen_-_Bildung_in_der_digitalen_Welt_Web.html
+  - als Videos: https://www.youtube.com/playlist?list=PLj5MscT8Fqr3POpHsUYCkyO1b2vYAiMtd
 
 - Europäischer Rahmen für die Digitale Kompetenz von Lehrenden (DigCompEdu)
 
-  - Überblicks-PDF <https://ec.europa.eu/jrc/sites/jrcsh/files/digcompedu_leaflet_de-2018-09-21pdf.pdf>
-  - DigcompEdu – Selbsttest (Version für Lehrkräfte an allgemein- oder berufsbildenden Schulen) <https://ec.europa.eu/eusurvey/runner/DigCompEdu-S-DE>
+  - Überblicks-PDF https://ec.europa.eu/jrc/sites/jrcsh/files/digcompedu_leaflet_de-2018-09-21pdf.pdf
+  - DigcompEdu – Selbsttest (Version für Lehrkräfte an allgemein- oder berufsbildenden Schulen) https://ec.europa.eu/eusurvey/runner/DigCompEdu-S-DE
 
 - Das Dagstuhldreieck (Gesellschaft für Informatik)
 
-  - Dagstuhldreieck <https://gi.de/fileadmin/GI/Hauptseite/Themen/Dagstuhl-Erkla__rung_2016-03-23.pdf>
-  - Erklärvideo <https://www.youtube.com/watch?v=_R0p6VSJ47E>
+  - Dagstuhldreieck https://gi.de/fileadmin/GI/Hauptseite/Themen/Dagstuhl-Erkla__rung_2016-03-23.pdf
+  - Erklärvideo https://www.youtube.com/watch?v=_R0p6VSJ47E
 
 - Darstellung weiterer Modell
 
-  - Stärken und Schwächen unterschiedlicher Modelle. <https://www.vedducation.de/modell/>
-  - Medienkompetenz bei Studierenden, ein nicht wieder verfolgtes Projekt des ZML. <https://publikationen.bibliothek.kit.edu/1000097492>
+  - Stärken und Schwächen unterschiedlicher Modelle. https://www.vedducation.de/modell/
+  - Medienkompetenz bei Studierenden, ein nicht wieder verfolgtes Projekt des ZML. https://publikationen.bibliothek.kit.edu/1000097492
 
 ### Aufgabe
 
@@ -80,16 +74,14 @@ Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=10" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
-
-
-
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
 ### Materialien
 
-- Mehr als 0 und 1: <http://mehrals0und1.ch/Argumente/WebHome>
-- Lernen Trotz Corona: <https://www.lernentrotzcorona.ch/Lernentrotzcorona>
+- [Mehr als 0 und 1](http://mehrals0und1.ch/Argumente/WebHome)
+- [Lernen Trotz Corona](https://www.lernentrotzcorona.ch/Lernentrotzcorona)
+
 
 --------------------------------------------------------------------------------
 
@@ -99,14 +91,11 @@ Zusammenfassung des Themas
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=11" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
-
-
-
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
 ### Materialien
 
-- <http://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/LP/MB>
-- <http://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/LP>
-- <https://wbs.zml.kit.edu/courses/leitperspektiven-bildungsplaene-2016/>
+- [Die Leitperspektiven in den Bildungsplänen des Landes BW](- http://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/LP)
+- [Leitperspektive **Medienbildung**](http://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/LP/MB)
+- [Frei zugägnlicher Onlinekurs zu den Leitperspektiven](https://wbs.zml.kit.edu/courses/leitperspektiven-bildungsplaene-2016/)

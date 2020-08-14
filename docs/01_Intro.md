@@ -7,8 +7,6 @@ Dieser Abschnitt zeigt die einführenden Inhalte, die zum zentralen Thema – de
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=1" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
 
-
-
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
@@ -43,14 +41,12 @@ IT Grundbildung – was sind eigentlich Algorithmen; und: kann man sie essen?
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=3" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
 
-
-
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
 ### Materialien
 
-- <http://openilias.uni-goettingen.de/openilias/goto_openilias_lm_824.html> (Kapitel 1 und 4)
+- [Onlinekurs der Uni Göttingen zum Thema Informationstechnologie](http://openilias.uni-goettingen.de/openilias/goto_openilias_lm_824.html) (Kapitel 1 und 4)
 
 ### Aufgabe
 
