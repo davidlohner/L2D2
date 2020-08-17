@@ -1,7 +1,7 @@
 - **Info**
 - [Über L2D2](00_About)
-- [Projektwebseite](https://l2d2.de)
-- [Mehr über L2D2](https://hochschulforumdigitalisierung.de/de/blog/kollaborativ-lehren-und-lernen-l2d2)
+- ![Projektwebseite](https://icongr.am/octicons/link-external.svg?size=16&color=currentColor)[Projektwebseite](https://l2d2.de)
+- ![Mehr über L2D2](https://icongr.am/octicons/link-external.svg?size=16&color=currentColor)[Mehr über L2D2](https://hochschulforumdigitalisierung.de/de/blog/kollaborativ-lehren-und-lernen-l2d2)
 - **Themen**
 - [Einführung](01_Intro)
 - [Kultur der Digitalität](02_Kultur)

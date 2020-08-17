@@ -1,6 +1,6 @@
 # Kultur der Digitalität
 
-## Leitmedinwechsel
+## Leitmedienwechsel
 
 Über den Leitmedienwechsel aus der Gutenberg- in die Turinggalaxis Von analog zu digital – der gesellschaftliche Umbruch durch den Leitmedienwechsel
 
@@ -23,8 +23,7 @@ Vorlage für diese Sitzung ist [eine Sitzung des „originalen" L2D2](https://l2
 Bitte wählt einen der beiden Beiträge (Vortrag von Axel Krommer oder Text von Klaus Zierer) aus, dem ihr eher zustimmt. Beschreibt 1.) die Argumente, die euch überzeugt haben und 2.) überlegt, warum sie euch überzeugen.
 
 Für das Peer-Feedback:
-
-(muss ich hier schon schreiben, da das Peer-Feedback an sich keine Arbeitsanweisung hat): Auch wenn es nicht eurer eigenen Überzeugung entspricht: Bitte nehmt die Gegenposition zu eurem Peer ein: Widerlegt die genannten Argumente auf der Sach- bzw. Inhaltsebene (keine persönliche Meinung!).
+Auch wenn es nicht eurer eigenen Überzeugung entspricht: Bitte nehmt die Gegenposition zu eurem Peer ein: Widerlegt die genannten Argumente auf der Sach- bzw. Inhaltsebene (keine persönliche Meinung!).
 
 --------------------------------------------------------------------------------
 

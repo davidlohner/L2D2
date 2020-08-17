@@ -1,4 +1,4 @@
-# tools
+# Tools
 
 ## Digitaler Werkzeugkasten
 
@@ -12,33 +12,19 @@ Zusammenfassung des Themas
 ### Materialien
 
 - Digitales Whiteboard [Flinga](https://ebildungslabor.de/blog/flinga/)
-
   - z.B. geeignet für Brainstorming-Sessions
-
 - H5P-Inhaltstypen unter der Lupe – interaktiven Webcontent mit H5P gestalten
-
   - [Webinarreihe der OERCamps zu H5P](https://www.oercamp.de/webinare/h5p/)
-
 - Kollaborativ schreiben – Etherpads
-
   - [5 Tools für spezifische Kollaborationsherausforderungen (Nele Hirsch)](https://ebildungslabor.de/blog/etherpadprinzip/)
 - Liste vom Sofa-Tutor
-
   - [Sehr umfangreiche Liste](https://magazin.sofatutor.com/lehrer/digitaler-werkzeugkasten-apps-und-tools-fuer-den-unterricht/) auch mit sehr spezifischer und kommerzieller Software.
-
 - Offene Webtools für offenes Lehren und Lernen
-
   - [Webinarreihe der OERCamps](https://www.oercamp.de/webinare/weboep/)
-
 - [Padlet](https://padlet.com/)
-
 - Sammlung allerlei Tools nach Kategorien, [organisiert in einem Padlet](https://padlet.com/tim_kantereit/zjb5br7gkwr4).
-
 - [Sammlung des Landesmedienzentrums Baden-Württemberg](https://www.lmz-bw.de/statische-newsroom-seiten/schule-machen-in-zeiten-des-coronavirus/online-tools-fuer-den-digitalen-unterricht/)
-
-
 - Videos & Audios aufnehmen und bearbeiten – Open Educational Resources (OER) einfach selbst machen!
-
   - [Webinarreihe der OERCamps zu Audio & Video](https://www.oercamp.de/webinare/tools/)
 
 ### Aufgabe
@@ -47,7 +33,7 @@ Zusammenfassung des Themas
 2. Macht euch mit den Tools vertraut und gestaltet mit einem davon einen Prototypen eines digitalen Artefakts damit, den ihr als Datei hochladet -- nach Möglichkeit jeweils im Orginialformat als auch in einem Format, das jemand ansehen kann, der kein Zugriff auf das Tool hat. Möglicherweise ist das dann auch nur ein Weblink zum veröffentlichten Artefakt.
 3. Nennt und beschreibt kurz die beiden Tools und warum ihr euch für sie entschieden habt.
 
-FÜR PEER-FEEDBACK:
+Für Peer-Feedback:
 
 1. Seht euch das zur Verfügung gestellte Artefakt an.
 2. Gebt eurem Peer Rückmeldung, was ihr an dem Artefakt gelungen findet (nicht, was man hätte besser machen können).
