@@ -2,7 +2,7 @@ on: push
 name: Publish Website
 jobs:
   FTP-Deploy-Action:
-    name: FTP-Deploy-2-l2d2.de
+    name: FTP-Deploy-Action
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.1.0
@@ -11,6 +11,6 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        ftp-server: sftp://kima.rrze.uni-erlangen.de/proj/websource/docs/kooperationen/www.l2d2.de/websource/KIT
+        ftp-server: sftp://kima.rrze.uni-erlangen.de:22/proj/websource/docs/kooperationen/www.l2d2.de/websource/KIT
         ftp-username: ends02wm
         ftp-password: ${{ secrets.FTPZUGANG }}
