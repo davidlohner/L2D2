@@ -2,7 +2,7 @@ on: push
 name: Publish Website
 jobs:
   FTP-Deploy-Action:
-    name: FTP-Deploy-Action
+    name: FTP-Deploy-2-l2d2.de
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.1.0
@@ -11,6 +11,6 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        ftp-server: ftp://ftp.samkirkland.com/
-        ftp-username: myFtpUserName
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        ftp-server: ${{ secrets.FTPURL }}
+        ftp-username: ${{ secrets.GTPUSER }}
+        ftp-password: ${{ secrets.FTPZUGANG }}
