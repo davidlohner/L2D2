@@ -11,6 +11,6 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        ftp-server: ftp://w018c38c.kasserver.com/oer/l2d2
+        ftp-server: ftp://w018c38c.kasserver.com/davidlohner.de/oer/l2d2
         ftp-username: w018c38c
         ftp-password: ${{ secrets.FTP_PSWD }}
