@@ -1,1 +1,2 @@
+- [Mehr Infos über das Lehrangebot des ZML](https://www.zml.kit.edu/medienkompetenz-im-lehramt.php)
 - [Kontakt](contact-instructor.md)

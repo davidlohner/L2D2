@@ -9,6 +9,7 @@
 ## Über dieses Skript
 
 Dieses **digitale Skript** für das Seminar bietet die Möglichkeit, die Inhalte auch nach dem Semester zu sichten.
+Das bedeutet, dass zu jeder Sitzung die wöchentlichen Begrüßungsvideos, die dargereichten Materialien (meistens Weblinks) und die Aufgabenstellung der Kurswochen enthalten. Die Abgabe der Aufgaben findet meist per Texteingabe im Learning Management System (am KIT ist das ILIAS) statt.
 
 ### Versionshinweis
 

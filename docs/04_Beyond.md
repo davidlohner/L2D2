@@ -2,7 +2,7 @@
 
 ## Learning Management Systeme
 
-Zusammenfassung des Themas
+Lernen und Lehren kann (und sollte) organisiert sein. Gerade für digitale Bildungskontexte kommen an Bildungsinstitutionen wie (Hoch-)Schulen Lernplattformen, die so genannten Learning Management Systeme zum Einsatz. Sie ermöglichen die Weitergabe und Organisation von Material, bieten oft verschiedene Austauschkanäle und lassen Lernfortschritte technisch nachverfolgen. Ob alle diese Funktionen nützlich und sinnvoll sind, muss im Einzelfall entschieden werden.
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=8" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
@@ -11,24 +11,24 @@ Zusammenfassung des Themas
 
 ### Materialien
 
-- https://www.e-teaching.org/technik/distribution/lernmanagementsysteme
-- http://www.zml.kit.edu/corona-ilias-nutzung.php
+- [Überblick über Learning Management Systeme](https://www.e-teaching.org/technik/distribution/lernmanagementsysteme)
+- [Hilfreiche Anleitungen für die Nutzung von ILIAS am KIT](http://www.zml.kit.edu/corona-ilias-nutzung.php)
 
 ### Aufgabe / Projektarbeit
 
-Bitte lest euch den Überblick über Learning Management Syssteme (LMS) bei e-teaching.org durch. Was danach kommt, ist eure Abschlussaufgabe für diesen Kurs, deren Abgabe daher auch erst bis Ende der Vorlesungszeit (Ende Juli) erforderlich ist. Alle noch kommenden Themen des Seminars ergänzen diese Aufgabe. Ziel der Aufgabe wird sein, dass ihr selbst eine kleine Lerneinheit innerhalb von ILIAS erstellt.
+Bitte lest euch den Überblick über Learning Management Systeme (LMS) bei e-teaching.org durch. Was danach kommt, ist eure Abschlussaufgabe für diesen Kurs, deren Abgabe daher auch erst bis Ende der Vorlesungszeit (Ende Juli) erforderlich ist. Alle noch kommenden Themen des Seminars ergänzen diese Aufgabe. Ziel der Aufgabe wird sein, dass ihr selbst eine kleine Lerneinheit innerhalb von ILIAS erstellt.
 
 Folgende Schritte solltet ihr dabei gehen:
 
 Verschafft euch einen Überblick über die Möglichkeiten, die ILIAS mitbringt (Tutorials des ZML zum Thema ILIAS, ebenfalls verlinkt) Plant eure Lerneinheit: Definiert dabei Fach/Thema, eure Zielgruppe (Klassenstufe) und den Umfang der Lerneinheit (Bearbeitungszeit). Wählt dann einige Inhalte aus (präferiert OER) oder erstellt selbst eigene (ebenfalls gern OER). Erstellt die Lerneinheit und stellt sie in MS Teams in einem Beitrag vor, der von anderen Kommentiert werden kann. Kommentiert die Lerneinheiten eurer Kommiliton*innen. Abschließend reflektiert ihr den Erstellungsprozess im Hinblick auf folgende Aspekte:
 
-Worin seht ihr Vor- und Nachteile von Learning Management Systemen (am Beispiel ILIAS)? Geht dabei auch auf das Thema "Algorithmisierung von Lernleistungen" ein, das wir zu Beginn des Semesters behandelt hatten Beschreibt kurz, ob ihr nach diesem Semester selbst in der Lage seid, digitale Bildungskontexte aktiv zu gestalten. Inwiefern helfen euch die im Seminar behandelten Inhalte und euren Erfahrungen aus dem Digital-Semester dabei?
+Worin seht ihr Vor- und Nachteile von Learning Management Systemen (am Beispiel ILIAS)? Geht dabei auch auf das Thema „Algorithmisierung von Lernleistungen” ein, das wir zu Beginn des Semesters behandelt hatten Beschreibt kurz, ob ihr nach diesem Semester selbst in der Lage seid, digitale Bildungskontexte aktiv zu gestalten. Inwiefern helfen euch die im Seminar behandelten Inhalte und euren Erfahrungen aus dem Digital-Semester dabei?
 
 --------------------------------------------------------------------------------
 
 ## Modelle für Medienkompetenz
 
-Zusammenfassung des Themas
+Der Umgang mit Medien im Allgemeinen erfordert, dass man sich mit der Materie auskennt. Dazu gehört weit mehr, als nur zu wissen, wie bestimmte Geräte oder Software zu *bedienen* ist. Unterschiedliche Kompetenzmodelle beschreiben die vielseitigen Dimensionen, wie Medienkompetenz betrachtet, beschrieben und gefördert werden kann.
 
 ### Materialien
 
@@ -60,7 +60,7 @@ Lest die Materialien zu den Modellen durch und überlegt, wie ihr eines davon in
 
 ## Mehr als 0 und 1
 
-Zusammenfassung des Themas
+Gerade im System Schule ist das Digitale bis jetzt (Anfang 2020) noch nicht ganz angekommen. Vorstöße für mehr Digitalität an Schulen, egal ob von einzelnen Lehrpersonen oder ganzen Kollegien bzw. Schulen oder Schulträgern, sehen sich oft starker Kritik ausgesetzt. Beat Döbeli Honegger hat viele dieser Argumente gesammelt, klassifiziert und mögliche Antworten darauf gesammelt.
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=10" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
@@ -77,7 +77,7 @@ Zusammenfassung des Themas
 
 ## Medienbildung im Bildungsplan Baden-Württemberg
 
-Zusammenfassung des Themas
+Das Thema „Medienbildung” ist seit einigen Jahren auch Teil der Bildungspläne im Land Baden-Württemberg. Eine der sechs Leitperspektiven verschreibt sich der Förderung digitaler Kompetenzen von Schüler*innen.
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=11" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>

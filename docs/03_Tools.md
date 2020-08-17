@@ -2,7 +2,7 @@
 
 ## Digitaler Werkzeugkasten
 
-Zusammenfassung des Themas
+Bildungsmaterial digital gestalten zu können setzt natürlich voraus, einen ganzen Werkzeugkasten voller Tools und Programme zu haben, die dabei nützlich sein können.
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=6" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
@@ -42,7 +42,8 @@ Für Peer-Feedback:
 
 ## Open Educational Resources
 
-Zusammenfassung des Themas
+Digitale Bildungsmaterialien können einfach weitergegeben und geteilt werden. Dabei muss das Urheberrecht und verschiedene Lizenzen beachtet werden, denn nicht alles Material darf ohne Weiteres vervielfältigt werden. Abhilfe schaffen die so genannten „Open Educational Ressources, die meist unter Creative Commons-Lizenzen verbreitet werden, die eine einfache Weiternutzung erlauben.
+
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=7" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
@@ -55,4 +56,4 @@ Zusammenfassung des Themas
 
 ### Aufgabe
 
-Bitte sucht im Netz ein OER-Material eurer Wahl, das ihr in eurem Unterricht einsetzen könntet. Gebt hier die korrekte Quellenangabe dazu an.
+Bitte sucht im Netz ein OER-Material eurer Wahl, das ihr in eurem Unterricht einsetzen könntet. Gebt hier mithilfe der TULLU-Regel die korrekte Quellenangabe dazu an.

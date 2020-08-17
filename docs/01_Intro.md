@@ -1,8 +1,9 @@
 # Einführung
 
-Dieser Abschnitt zeigt die einführenden Inhalte, die zum zentralen Thema – der „Kultur der Digitalität” – hinführen.
+Dieser Abschnitt zeigt die einführenden Inhalte des Seminars, die zum zentralen Thema – der „Kultur der Digitalität” – hinführen.
 
 ## Opener des Seminars
+Begrüßung zum Seminar im Sommersemester 2020, das am KIT vollständig online stattfindet.
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=1" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
@@ -33,7 +34,7 @@ Beschreibt kurz, wo und wie ihr bereits in eurer eigenen Bildungsbiographie (als
 
 ## Algorithmen
 
-IT Grundbildung – was sind eigentlich Algorithmen; und: kann man sie essen?
+Der Begriff „Digitalisierung” ist in aller Munde. Aber was genau verbirgt sich dahinter? In dieser Sitzung behandeln wir einen der Grundbausteine davon, die Algorithmen. Es geht also um IT-Grundbildung, um die technische Dimension der Digitalisierung zu beleuchten. Mit an Bord für diese Veranstaltung der Kollege [Raphael Morisco](https://www.zml.kit.edu/mitarbeiter_raphael-morisco.php).
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=3" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
