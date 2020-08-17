@@ -14,3 +14,4 @@ jobs:
         ftp-server: ftp://w018c38c.kasserver.com/davidlohner.de/oer/l2d2
         ftp-username: w018c38c
         ftp-password: ${{ secrets.FTP_PSWD }}
+        local-dir: /docs
