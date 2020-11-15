@@ -7,10 +7,11 @@
 - [Kultur der Digitalität](02_Kultur)
 - [Tools](03_Tools)
 - [Weiterführendes](04_Beyond)
-- **KIT-interne Links**
-- [![ILIAS-Kursraum](https://icongr.am/octicons/rocket.svg?size=16&color=currentColor)ILIAS-Kursraum](https://ilias.studium.kit.edu/goto.php?target=crs_1083151&client_id=produktiv)
-- [![MS Team](https://icongr.am/octicons/people.svg?size=16&color=currentColor)MS-Team](https://connect.studium.kit.edu/teams/join/UFTXtJiJ9f)
-- [![Alle Intro-Videos](https://icongr.am/octicons/play.svg?size=16&color=currentColor)Alle Intro-Videos](https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-C18)
+- **KIT Vorlesungsverzeichnis**
+- [![WiSe20/21](https://icongr.am/octicons/rocket.svg?size=16&color=currentColor)WiSe20/21](https://campus.studium.kit.edu/events/catalog.php#!campus/all/event.asp?gguid=0x47CA6295BF1D4BCD8C3D981257FCD5E7&rwfiguid=0xF4A0306D21D94A008953751D2472967C)
+- [![SoSe2020](https://icongr.am/octicons/rocket.svg?size=16&color=currentColor)SoSe2020](https://campus.studium.kit.edu/events/catalog.php#!campus/all/event.asp?gguid=0x193C69EF6C3C4AA38CE9B3826BC7CB35&rwfiguid=0xFE303B72898A4032B0A6B7541AC01290)
+- [![WiSe19(20)](https://icongr.am/octicons/rocket.svg?size=16&color=currentColor)WiSe19/20](https://campus.studium.kit.edu/events/catalog.php#!campus/all/event.asp?gguid=0x79049D67164A4B06BB32543D843B11D1)
+- [![Alle Intro-Videos (Sommersemester 2020)](https://icongr.am/octicons/play.svg?size=16&color=currentColor)Alle Intro-Videos](https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-C18)
 - **Über diese Dokumentation**
 - [Lizenziert unter CC-BY 4.0](CCLizenz)
 - [Technischer Unterbau](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/master/README.md)

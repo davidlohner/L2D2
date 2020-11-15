@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "4c8f3955b6918129",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f266170b3cef0b4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "sidebar.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf4f6a4704d73b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "8294d308235f110a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e2b0ec9a52056a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d5bc80132d409e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cea8594b1dce14e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d77d45bc184382a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e5fd521bcbf6355",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sidebar.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "sidebar.md",
+    "home.md",
+    "00_About.md",
+    "01_Intro.md",
+    "04_Beyond.md",
+    "CCLizenz.md",
+    "contact-instructor.md",
+    "03_Tools.md",
+    "02_Kultur.md",
+    "_navbar.md"
+  ]
+}
