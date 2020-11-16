@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00_About.md",
+            "file": "sidebar.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_About.md"
+                "file": "sidebar.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "00_About.md",
-    "03_Tools.md",
-    "04_Beyond.md",
-    "02_Kultur.md",
-    "01_Intro.md",
     "sidebar.md",
     "home.md",
-    "CCLizenz.md",
     "contact-instructor.md",
-    "_navbar.md"
+    "CCLizenz.md",
+    "00_About.md",
+    "01_Intro.md",
+    "_navbar.md",
+    "03_Tools.md",
+    "02_Kultur.md",
+    "04_Beyond.md"
   ]
 }
