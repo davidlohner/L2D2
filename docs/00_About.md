@@ -6,7 +6,6 @@ Lernprozesse sind unter den Bedingungen der Digitalisierung grundlegenden Verän
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=12" width="857" height="511" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
-
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
@@ -14,7 +13,7 @@ Lernprozesse sind unter den Bedingungen der Digitalisierung grundlegenden Verän
 
 1. Die Studierenden können Implikationen von Digitalisierung und Digitalität auf das Lehren und Lernen beschreiben und Bildungskontexte, der mit Medien gestützt gestaltet ist vor diesem Hintergrund analysieren.
 
-### Teilziele (Themenblöcke)
+### Teilziele
 
 Die Studierenden...
 
@@ -24,23 +23,21 @@ Die Studierenden...
 
 ### Lernziele zu den jeweiligen Themenblöcken
 
-Zu 1.) Die Studierenden...
+Zu **1.)** Die Studierenden...
 
 - Können in Grundzügen erklären, was ein Algorithmus ist.
 - Können den Umbruch von einer analogen in eine digitale Gesellschaft skizzieren.
 - Können die Begriffe „Algorithmizität”, „Referentialität” und „Gemeinschaftlichkeit” aus Felix Stalders Kultur der Digitalität auf Bildungskontexte beziehen und erklären.
 
-Zu 2.) Die Studierenden...
+Zu **2.)** Die Studierenden...
 
 - Kennen verschiedene Kompetenzmodelle für Digitale bzw. Medienkompetenz und können diese erklären und auf Bildungskontexte anwenden.
 - Wissen, wodurch sich offene Bildungsressourcen (OER) auszeichnen und können gezielt danach recherchieren/suchen.
 - Kennen unterschiedliche Methoden und Tools, Bildungskontexte mit digitale Medien zu gestalten.
 - Kennen die Grundfunktionen eines Learning Management Systems und können den Einsatz eines solchen kritisch hinterfragen.
 
-Zu 3.) Die Studierenden...
+Zu **3.)** Die Studierenden...
 
 - Kennen vielfache Argumente für und wider den Einsatz digitaler Medien in Bildungskontexten und können jeweils Stellung beziehen.
 - Können einzelne Fallbeispiele von Bildungskontexten analysieren und bewerten.
 - Können Anknüpfungspunkte für den Einsatz digitaler Medien in ihrem jeweiligen Fachunterricht identifizieren.
-
-Jedes der Teilziele stellt einen Themenblock dar, der in einer der Seminarsitzungen jeweils behandelt und vertieft wird.

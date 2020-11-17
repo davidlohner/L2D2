@@ -13,8 +13,8 @@ Das bedeutet, dass zu jeder Sitzung die wöchentlichen Begrüßungsvideos, die d
 
 ### Versionshinweis
 
-Diese Version beinhaltet die Inhalte, die am KIT für das **Sommersemester 2020** verwendet wurden. In diesem Semester wurde das Seminar vom [Zentrum für Mediales Lernen (ZML)](https://www.zml.kit.edu) in Kooperation mit dem [Zentrum für Lehrerbildung](https://www.hoc.kit.edu/zlb/index.php) durchgeführt.
+Diese Version beinhaltet stets die Inhalte, die am KIT für das aktuelle Semester verwendet werden. Das Seminar wird vom [Institut für Berufspädagogik und Allgemeine Pädagogik (IBAP)](https://www.ibap.kit.edu) [Zentrum für Mediales Lernen (ZML)](https://www.zml.kit.edu) in Kooperation mit dem [Zentrum für Lehrerbildung](https://www.hoc.kit.edu/zlb/index.php) durchgeführt.
 
 ### Offene Quelldaten
 
-Im [GitHub Repository](https://github.com/davidlohner/L2D2) können Änderungen und Ergänzungen nachvollzogen werden.
+Im [GitHub Repository](https://github.com/davidlohner/L2D2) können Änderungen und Ergänzungen nachvollzogen werden. Dazu sind die Inhalte auch unter einer Creative Commons Lizenz [freigegeben](CCLizenz)

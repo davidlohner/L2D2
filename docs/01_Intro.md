@@ -7,7 +7,6 @@ Begrüßung zum Seminar im Sommersemester 2020, das am KIT vollständig online s
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=1" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
-
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
