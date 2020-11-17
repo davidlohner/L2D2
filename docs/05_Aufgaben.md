@@ -37,7 +37,7 @@ Studierende der (Ingenieur-)Pädagogik können **bis zu 6 ECTS Punkte** erwerben
 
 Bitte gebt einen Text ein, in dem ihr eure Erfahrungen mit Peer-Feedback bei Übungsaufgaben (auch außerhalb von ILIAS) schildert. Wenn ihr keine habt, überlegt euch, was ihr von dieser Methode erwartet oder ob sie euch gänzlich unbekannt ist.
 
-## [Schule und Studium digital](01_Intro#Schule und Studium digital)
+## [Schule und Studium digital](01_Intro#Schule)
 
 Beschreibt kurz, wo und wie ihr bereits in eurer eigenen Bildungsbiographie (also in Schule und Studium) mit digital-medial gestützter Lehre in Kontakt kamt; wie ihr das wahrgenommen und empfunden habt und wie ihr jetzt – einige Zeit später – darüber denkt.
 
