@@ -27,23 +27,65 @@ bitte nutzt so gut es geht die technischen Möglichkeiten des Tools, das ihr ver
   - oder ein Video!
 
 
+--------------------------------------------------------------------------------
+
 # Aufgaben für Studierende der (Ingenieur-)Pädagogik
 
 Studierende der (Ingenieur-)Pädagogik können **bis zu 6 ECTS Punkte** erwerben und sollen – neben der regelmäßigen Bearbeitung der Inhalte (Texte, Videos, Podcasts etc.) im Verlauf des Semesters zu jedem Thema eine Reflexionsaufgabe bearbeiten. Hier sind die genauen Aufgabenstellungen formuliert:
 
-## Einführung
-Input und Material zur [Einführung](01_Intro#Einführung)
+## [Einführung](01_Intro#Einführung)
 
 Bitte gebt einen Text ein, in dem ihr eure Erfahrungen mit Peer-Feedback bei Übungsaufgaben (auch außerhalb von ILIAS) schildert. Wenn ihr keine habt, überlegt euch, was ihr von dieser Methode erwartet oder ob sie euch gänzlich unbekannt ist.
 
-## Thema der Sitzung
-Input und Material zum Thema [THEMA]
+## [Schule und Studium digital](01_Intro#Schule und Studium digital)
 
-## Thema der Sitzung
-Input und Material zum Thema [THEMA]
+Beschreibt kurz, wo und wie ihr bereits in eurer eigenen Bildungsbiographie (also in Schule und Studium) mit digital-medial gestützter Lehre in Kontakt kamt; wie ihr das wahrgenommen und empfunden habt und wie ihr jetzt – einige Zeit später – darüber denkt.
 
-## Thema der Sitzung
-Input und Material zum Thema [THEMA]
 
-## Thema der Sitzung
-Input und Material zum Thema [THEMA]
+## [Algorithmen](01_Intro#Algorithmen)
+
+Bitte bearbeite zuerst (!) das Selbstlernmodul der Uni Göttingen!
+
+Beschreibe in eigenen Worten, was ein Algorithmus ist und wo Du in deinem ganz persönlichen Alltag mit Algorithmen Berührpunkte hast. Sollten Algorithmen in Bildungskontexten verstärkt eingesetzt werden?
+
+--------------------------------------------------------------------------------
+
+
+## [Leitmedienwechsel](02_Kultur#Leitmedienwechsel)
+Bitte wählt einen der beiden Beiträge (Vortrag von Axel Krommer oder Text von Klaus Zierer) aus, dem ihr eher zustimmt. Beschreibt 1.) die Argumente, die euch überzeugt haben und 2.) überlegt, warum sie euch überzeugen.
+
+Für das Peer-Feedback:
+Auch wenn es nicht eurer eigenen Überzeugung entspricht: Bitte nehmt die Gegenposition zu eurem Peer ein: Widerlegt die genannten Argumente auf der Sach- bzw. Inhaltsebene (keine persönliche Meinung!).
+
+## [Kultur der Digitalität](02_Kultur#Kultur der Digitalität)
+1. Organisiert euch in 5er Gruppen (nach meiner Rechnung müsste es dann auch eine 4er Gruppe geben. – Denkt auch daran, innerhalb der Teams Rollen zu verteilen (wer organisiert Meetings, wer achtet auf Zeiteinteilung, wer übernimmt Protokollierung von Gesprächen etc.)
+2. Legt für jede Gruppe in MS Teams einen Kanal an (Benennung "Gruppe_ABCD" und an Stelle ABCD sucht ihr euch einen coolen Namen)
+3. Erörtert in der Gruppe, was der Text von Felix Stalder und die beiden Podcast-Episoden für euch bedeuten: Welche Aspekte haben euch zum Nachdenken angeregt, warum? Welchen Aussagen stimmt ihr zu, welchen nicht? Worin sehr ihr besonders große Chancen für den Bildungsbereich, wovon seit ihr nicht überzeugt? Nutzt dazu auch die Besprechungsfunktion – live reden (auch virtuell) ist oft besser als nur im Chat zu kommunizieren. Und bei kleinen Gruppen geht das ohne Probleme!
+4. Legt in eurem Kanal im Reiter "Dateien" ein gemeinsames Word-Dokument an und haltet eure Diskussion und die Ergebnisse – vielleicht auch offene Fragen – darin fest.
+5. Ladet dieses Word-Dokument hier in ILIAS als Team hoch.
+
+Für diese Teamarbeit gibt es kein explizites Peer-Feedback über ILIAS, da ihr ja schon mit Peers zusammenarbeitet.
+
+--------------------------------------------------------------------------------
+
+## [Digitaler Werkzeugkasten](#03_Tools#Digitaler Werkzeugkasten)
+1. Wählt aus den Listen und Sammlungen zwei Tools aus; eines, das eher einen allgemeinen Charakter hat und eines, das eher fachspezifisch für eines eurer Studienfächer geeignet scheint.
+2. Macht euch mit den Tools vertraut und gestaltet mit einem davon einen Prototypen eines digitalen Artefakts damit, den ihr als Datei hochladet -- nach Möglichkeit jeweils im Orginialformat als auch in einem Format, das jemand ansehen kann, der kein Zugriff auf das Tool hat. Möglicherweise ist das dann auch nur ein Weblink zum veröffentlichten Artefakt.
+3. Nennt und beschreibt kurz die beiden Tools und warum ihr euch für sie entschieden habt.
+
+Für Peer-Feedback:
+
+1. Seht euch das zur Verfügung gestellte Artefakt an.
+2. Gebt eurem Peer Rückmeldung, was ihr an dem Artefakt gelungen findet (nicht, was man hätte besser machen können).
+
+## [Open Educational Resources](03_Tools#Open Educational Resources)
+Bitte sucht im Netz ein OER-Material eurer Wahl, das ihr in eurem Unterricht einsetzen könntet. Gebt hier mithilfe der TULLU-Regel die korrekte Quellenangabe dazu an.
+
+## [Learning Management Systeme](04_Beyond#Learning Management Systeme)
+tbd
+
+## [Modelle für Medienkompetenz](04_Beyond#Modelle für Medienkompetenz)
+
+## [Mehr als 0 und 1](04_Beyond#Mehr als 0 und 1)
+
+## [Medienbildung in BW](04_Beyond#Medienbildung im Bildungsplan Baden-Württemberg)

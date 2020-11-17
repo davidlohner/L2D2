@@ -27,16 +27,7 @@ Bildungsmaterial digital gestalten zu können setzt natürlich voraus, einen gan
 - Videos & Audios aufnehmen und bearbeiten – Open Educational Resources (OER) einfach selbst machen!
   - [Webinarreihe der OERCamps zu Audio & Video](https://www.oercamp.de/webinare/tools/)
 
-### Aufgabe
 
-1. Wählt aus den Listen und Sammlungen zwei Tools aus; eines, das eher einen allgemeinen Charakter hat und eines, das eher fachspezifisch für eines eurer Studienfächer geeignet scheint.
-2. Macht euch mit den Tools vertraut und gestaltet mit einem davon einen Prototypen eines digitalen Artefakts damit, den ihr als Datei hochladet -- nach Möglichkeit jeweils im Orginialformat als auch in einem Format, das jemand ansehen kann, der kein Zugriff auf das Tool hat. Möglicherweise ist das dann auch nur ein Weblink zum veröffentlichten Artefakt.
-3. Nennt und beschreibt kurz die beiden Tools und warum ihr euch für sie entschieden habt.
-
-Für Peer-Feedback:
-
-1. Seht euch das zur Verfügung gestellte Artefakt an.
-2. Gebt eurem Peer Rückmeldung, was ihr an dem Artefakt gelungen findet (nicht, was man hätte besser machen können).
 
 --------------------------------------------------------------------------------
 
@@ -53,7 +44,3 @@ Digitale Bildungsmaterialien können einfach weitergegeben und geteilt werden. D
 ### Materialien
 
 - [Einführung in OER bei DigiLL](https://digill.de/course/einfuehrung-in-die-open-educational-resources/)
-
-### Aufgabe
-
-Bitte sucht im Netz ein OER-Material eurer Wahl, das ihr in eurem Unterricht einsetzen könntet. Gebt hier mithilfe der TULLU-Regel die korrekte Quellenangabe dazu an.
