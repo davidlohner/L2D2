@@ -18,7 +18,7 @@ Bitte gebt einen Text ein, in dem ihr eure Erfahrungen mit Peer-Feedback bei Üb
 
 ## Schule und Studium digital
 
-Reflexion über Bildungsbiographien und das Studium bisher. Reflexion über die eigenen Erfahrungen mit digitalen Medien in Schule und Studium, wie war es damals, wie wird es sein bzw. wie *ist* es in diesem speziellen Sommersemester?
+Reflexion über Bildungsbiographien und das Studium bisher. Reflexion über die eigenen Erfahrungen mit digitalen Medien in Schule und Studium, wie war es damals, wie wird es sein bzw. wie *ist* es seit dem „Corona-Semester 2020”?
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
@@ -37,7 +37,6 @@ Der Begriff „Digitalisierung” ist in aller Munde. Aber was genau verbirgt si
 
 <iframe src="https://l2d2.de/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=3" width="857" height="543" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
-
 <script src="https://l2d2.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8">
 </script>
 
