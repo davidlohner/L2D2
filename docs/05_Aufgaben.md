@@ -35,7 +35,7 @@ bitte nutzt so gut es geht die technischen Möglichkeiten des Tools, das ihr ver
 
 Studierende der (Ingenieur-)Pädagogik können **bis zu 6 ECTS Punkte** erwerben und sollen – neben der regelmäßigen Bearbeitung der Inhalte (Texte, Videos, Podcasts etc.) im Verlauf des Semesters zu jedem Thema eine Reflexionsaufgabe bearbeiten. Hier sind die genauen Aufgabenstellungen formuliert:
 
-### [Einführung](01_Intro#einführung)
+### [Einführung](01_Intro#opener-des-seminars)
 
 Bitte gebt einen Text ein, in dem ihr eure Erfahrungen mit Peer-Feedback bei Übungsaufgaben (auch außerhalb von ILIAS) schildert. Wenn ihr keine habt, überlegt euch, was ihr von dieser Methode erwartet oder ob sie euch gänzlich unbekannt ist.
 
@@ -87,7 +87,10 @@ Bitte sucht im Netz ein OER-Material eurer Wahl, das ihr in eurem Unterricht ein
 tbd
 
 ### [Modelle für Medienkompetenz](04_Beyond#modelle-für-medienkompetenz)
+tbd
 
 ### [Mehr als 0 und 1](04_Beyond#mehr-als-0-und-1)
+tbd
 
 ### [Medienbildung in BW](04_Beyond#medienbildung-im-bildungsplan-baden-württemberg)
+tbd

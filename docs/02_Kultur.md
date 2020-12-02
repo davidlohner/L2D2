@@ -35,6 +35,7 @@ Das zentrale Thema des Seminars L2D2 ist die „Kultur der Digitalität” und w
 - Hören: [Podcast-Episode „Kultur des Teilens”](https://open-educational-resources.de/oer066/)
 - Hören: [Podcast-Episode „Schule und Lernen in der digitalen Welt”](https://forschergeist.de/podcast/fg043-schule-und-lernen-in-der-digitalen-welt/)
 
-
+### Zusatz
+Wie diese Kultur der Digitalität nun in der Schule Einzug halten kann, wird derzeit noch ausgehandelt. Ich durfte meine Sicht auf die Dinge im Schuljahr 2020/21 auf dem pädagogischen Tag einer Schule in Baden-Württemberg schildern. Das Manuskript meines Vortrags steht auf meinem Blog unter https://davidlohner.de/blog/2020/7038
 
 --------------------------------------------------------------------------------
