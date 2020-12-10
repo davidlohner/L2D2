@@ -28,6 +28,14 @@ bitte nutzt so gut es geht die technischen Möglichkeiten des Tools, das ihr ver
   - eine Audioaufnahme (mit Gesprächspartner:innen?), also ein Podcast
   - oder ein Video!
 
+**Zum Umfang der Essays**
+- schriftliche Essays: ca 10 000 Zeichen (entspricht ca 3-4 DIN A4 Seiten im Word-Standard)
+- Multimediabeiträge (Videos, Podcasts, aufgezeichnete Präsentationen) sollten
+  - bei Selbst-Ablaufen 7 - 10 Minuten Dauer haben
+  - bei interaktivem Durcharbeiten etwa 15 Minuten Arbeitszeit in Anspruch nehmen.
+
+In jedem Fall gilt, dass die inhaltliche Qualität über der Quantität steht. Solltet ihr umfangreichere Arbeiten abgeben (müssen, um auf euren Punkt zu kommen), macht das. Bemüht euch bei den Multimediabeiträgen um eine hohe technische Qualität, legt aber den Fokus auf die Inhalte.
+
 
 --------------------------------------------------------------------------------
 
