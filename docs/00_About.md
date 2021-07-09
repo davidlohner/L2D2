@@ -17,26 +17,26 @@ Lernprozesse sind unter den Bedingungen der Digitalisierung grundlegenden Verän
 
 Die Studierenden...
 
-1. Können Grundpfeiler der Digitalität (nach Felix Stadler 2016) und der damit zusammenhängenden gesellschaftlichen Transformationen benennen und deren Auswirkungen auf Bildungskontexte beschreiben.
-2. Kennen verschiedene Methoden, um Bildungskontexte mit digitalen Medien entsprechend einer „Kultur der Digitalität” zu gestalten.
-3. Können Bildungskontexte im Hinblick auf deren mediale Gestaltung hinterfragen und analysieren.
+1. [**Theorie**] Können Grundpfeiler der Digitalität (nach Felix Stadler 2016) und der damit zusammenhängenden gesellschaftlichen Transformationen benennen und deren Auswirkungen auf Bildungskontexte beschreiben.
+2. [**Praxis**] Kennen verschiedene Methoden, um Bildungskontexte mit digitalen Medien entsprechend einer „Kultur der Digitalität” zu gestalten.
+3. [**Transfer**] Können Bildungskontexte mit und über Medien kritisch hinterfragen und analysieren.
 
 ### Lernziele zu den jeweiligen Themenblöcken
 
-Zu **1.)** Die Studierenden...
+Zu **1.) Theorie:** Die Studierenden...
 
 - Können in Grundzügen erklären, was ein Algorithmus ist.
 - Können den Umbruch von einer analogen in eine digitale Gesellschaft skizzieren (Leitmedienwechsel).
 - Können die Begriffe „Algorithmizität”, „Referentialität” und „Gemeinschaftlichkeit” aus Felix Stalders Kultur der Digitalität (2016) auf Bildungskontexte beziehen und erklären.
 
-Zu **2.)** Die Studierenden...
+Zu **2.) Praxis**: Die Studierenden...
 
 - Kennen verschiedene Kompetenzmodelle für Digitale bzw. Medienkompetenz und können diese erklären und auf Bildungskontexte anwenden.
 - Wissen, wodurch sich offene Bildungsressourcen (OER) auszeichnen und können gezielt danach recherchieren/suchen.
 - Kennen unterschiedliche Methoden und Tools, Bildungskontexte mit digitale Medien zu gestalten.
 - Kennen die Grundfunktionen eines Learning Management Systems und können den Einsatz eines solchen kritisch hinterfragen.
 
-Zu **3.)** Die Studierenden...
+Zu **3.) Transfer:** Die Studierenden...
 
 - Kennen vielfache Argumente für und wider den Einsatz digitaler Medien in Bildungskontexten und können jeweils Stellung beziehen.
 - Können einzelne Fallbeispiele von Bildungskontexten analysieren und bewerten.

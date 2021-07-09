@@ -11,9 +11,7 @@
 Dieses **digitale Skript** für das Seminar bietet die Möglichkeit, die Inhalte auch nach dem Semester zu sichten.
 Das bedeutet, dass zu jeder Sitzung die wöchentlichen Begrüßungsvideos, die dargereichten Materialien (meistens Weblinks) und die Aufgabenstellung der Kurswochen enthalten. Die Abgabe der Aufgaben findet über das Learning Management System des KIT statt.
 
-### Versionshinweis
-
-Diese Version beinhaltet stets die Inhalte, die am KIT für das aktuelle Semester verwendet werden. Das Seminar wird vom [Institut für Berufspädagogik und Allgemeine Pädagogik (IBAP)](https://www.ibap.kit.edu) [Zentrum für Mediales Lernen (ZML)](https://www.zml.kit.edu) in Kooperation mit dem [Zentrum für Lehrerbildung](https://www.hoc.kit.edu/zlb/index.php) durchgeführt.
+Das digitale Skript beinhaltet die Inhalte, die am KIT für das Seminar verwendet werden und wird laufend aktualisiert, verändert und erweitert. Das Seminar wird vom [Institut für Berufspädagogik und Allgemeine Pädagogik (IBAP)](https://www.ibap.kit.edu) [Zentrum für Mediales Lernen (ZML)](https://www.zml.kit.edu) in Kooperation mit dem [Zentrum für Lehrerbildung](https://www.hoc.kit.edu/zlb/index.php) durchgeführt.
 
 ### Offene Quelldaten
 
