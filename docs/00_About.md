@@ -11,23 +11,23 @@ Lernprozesse sind unter den Bedingungen der Digitalisierung grundlegenden Verän
 
 ## Lernziel des Seminars
 
-1. Die Studierenden können Implikationen von Digitalisierung und Digitalität auf das Lehren und Lernen beschreiben und Bildungskontexte, der mit Medien gestützt gestaltet ist vor diesem Hintergrund analysieren.
+1. Die Studierenden können die Implikationen von Digitalisierung und Digitalität auf das Lehren und Lernen beschreiben und Bildungskontexte, vor diesem Hintergrund  analysieren und gestalten.
 
 ### Teilziele
 
 Die Studierenden...
 
-1. Können Grundpfeiler der Digitalisierung und der damit zusammenhängenden gesellschaftlichen Transformationen benennen und deren Auswirkungen auf Bildungskontexte beschreiben
-2. Kennen verschiedene Methoden, Bildungskontexte mit digitalen Medien entsprechend einer „Kultur der Digitalität” zu gestalten
-3. Können Bildungskontexte im Hinblick auf hinterfragen und analysieren
+1. Können Grundpfeiler der Digitalität (nach Felix Stadler 2016) und der damit zusammenhängenden gesellschaftlichen Transformationen benennen und deren Auswirkungen auf Bildungskontexte beschreiben.
+2. Kennen verschiedene Methoden, um Bildungskontexte mit digitalen Medien entsprechend einer „Kultur der Digitalität” zu gestalten.
+3. Können Bildungskontexte im Hinblick auf deren mediale Gestaltung hinterfragen und analysieren.
 
 ### Lernziele zu den jeweiligen Themenblöcken
 
 Zu **1.)** Die Studierenden...
 
 - Können in Grundzügen erklären, was ein Algorithmus ist.
-- Können den Umbruch von einer analogen in eine digitale Gesellschaft skizzieren.
-- Können die Begriffe „Algorithmizität”, „Referentialität” und „Gemeinschaftlichkeit” aus Felix Stalders Kultur der Digitalität auf Bildungskontexte beziehen und erklären.
+- Können den Umbruch von einer analogen in eine digitale Gesellschaft skizzieren (Leitmedienwechsel).
+- Können die Begriffe „Algorithmizität”, „Referentialität” und „Gemeinschaftlichkeit” aus Felix Stalders Kultur der Digitalität (2016) auf Bildungskontexte beziehen und erklären.
 
 Zu **2.)** Die Studierenden...
 
